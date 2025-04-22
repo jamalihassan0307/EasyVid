@@ -278,6 +278,7 @@ lib/
    - Paste video URL
    - Choose video quality
    - Start download
+   - 
 
 2. **Manage Downloads**
    - View all downloaded videos
