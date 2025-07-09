@@ -252,6 +252,24 @@ lib/
 └── main.dart
 ```
 
+
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="jamalihassan0307.jpg" width="80" style="border-radius: 50%"/><br/>
+      <b>jamalihassan0307</b>
+    </td>
+    <td align="center">
+      <img src="SJA0010.jpg" width="80" style="border-radius: 50%"/><br/>
+      <b>Subhan Abbasi</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 Features Coming Soon
 
 - More social media platform support
